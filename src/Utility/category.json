@@ -1,0 +1,85 @@
+[
+
+    {
+        "image":"https://rukminim2.flixcart.com/image/850/1000/kxgfzbk0/wall-decoration/d/q/e/food-pizza-wallpaper-paper-poster-1-vp-221221-617-poster-smoky-original-imag9wjrxfzzhrpd.jpeg?q=20&crop=false",
+        "path": "pizza"
+
+    },
+    {
+        "image": "https://t4.ftcdn.net/jpg/06/01/16/63/360_F_601166394_1W98QexrsbQINOfjT6QVdFKF0e3TxzVk.jpg",
+        "path": "north indian"
+    },
+  
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHI6vHr6V8yiVoYNezh3ViC4ZcCD7U_0kuuw&s",
+        "path": "noodles"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZa61QHD77xqhANHIROnowZtOitxtvwJUMA&s",
+        "path": "pasta"
+    },
+    {
+        "image": "https://www.seriouseats.com/thmb/tRWGfWOQV3O7P1YveeDtNRS1JBY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2021__01__20210106-aloo-parathas-nik-sharma-13-52b77ba4cbad4c4f844f2f88910b2b53.jpg",
+        "path": "paratha"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/AantlcJuo2s/maxresdefault.jpg",
+        "path": "biryani"
+    },
+    {
+        "image": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/16:9/w_3743,h_2105,c_limit/Smashburger-recipe-120219.jpg",
+        "path": "burger"
+    },
+    {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/angel-food-cake-index-66203559c7aed.jpg",
+        "path": "cakes"
+    },
+    {
+        "image": "https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
+        "path": "chinese"
+    },
+    {
+        "image": "https://www.shutterstock.com/image-photo/chole-bhature-north-indian-food-600nw-2241211665.jpg",
+        "path": "chole-bature"
+    },
+    {
+        "image": "https://vismaifood.com/storage/app/uploads/public/8b4/19e/427/thumb__700_0_0_0_auto.jpg",
+        "path": "dosa"
+    },
+    {
+        "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2022/10/gulab-jamun-recipe-01.jpg",
+        "path": "gulab-jamun"
+    },
+    {
+        "image": "https://c.ndtvimg.com/2023-02/egi0l8i_ice-cream_625x300_17_February_23.jpg?im=FaceCrop,algorithm=dnn,width=384,height=384",
+        "path": "ice-creams"
+    },
+    {
+        "image": "https://c.ndtvimg.com/2022-06/m6sfhmto_mini-spicy-idlis_625x300_29_June_22.jpg",
+        "path": "idli"
+    },
+    {
+        "image": "https://www.foodandwine.com/thmb/3LBDdxJUwk0XOdB4TfYxJ31RwCc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Khichdi-FT-RECIPE0121-7a893e6261934b8ea6b59fd1fa582600.jpg",
+        "path": "khichdi"
+    },
+    {
+        "image": "https://static.toiimg.com/photo/70657177.cms",
+        "path": "poori"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSZnlwyEPItehdyGPbr2HzzAGu5BQi6pfbw&s",
+        "path": "pure-veg"
+    },
+    {
+        "image": "https://static.toiimg.com/thumb/78786751.cms?resizemode=4&width=1200",
+        "path": "rolls"
+    },
+    {
+        "image": "https://c4.wallpaperflare.com/wallpaper/701/94/381/5bd35dee2f759-wallpaper-preview.jpg",
+        "path": "salad"
+    },
+    {
+        "image": "https://img-global.cpcdn.com/recipes/cd481e670741659f/400x400cq70/photo.jpg",
+        "path": "south-indian"
+    }
+]
