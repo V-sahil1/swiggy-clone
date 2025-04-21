@@ -60,7 +60,7 @@ const link =[{
       </div>
       
     </div>
-    <header className='sticky top-0 bg-white z-[999] p-[15px] shadow-xl'>
+    <header className='sticky top-0 bg-white z-[999] p-[15px] c'>
       <div className=
       'max-w-[1200px] mx-auto flex items-center  '>
         <div className='w-[100px]  '>

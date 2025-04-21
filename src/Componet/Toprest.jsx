@@ -22,7 +22,7 @@ function Toprest() {
 
   return (
     <>
-    <div className="max-w-[1200px] mx-auto overflow-hidden ">
+    <div className="max-w-[1200px] mx-auto overflow-hidden  ">
     <div className="flex my-3 items-center justify-between">
         <div className="text-2xl font-bold ">Top restaurant Chains in surat </div>
         <div className="flex">
@@ -42,7 +42,7 @@ function Toprest() {
       </div>
     </div>
       
-     <div className="flex gap-5 ">
+     <div className="flex gap-5 mt-6 ">
      <X/>
     </div>
     <hr className="mt-8" />
